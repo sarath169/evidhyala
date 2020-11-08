@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "684510405722",
+    "firebase_url": "https://evidyalaya-fb617.firebaseio.com",
+    "project_id": "evidyalaya-fb617",
+    "storage_bucket": "evidyalaya-fb617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684510405722:android:f6de2800139229286f2463",
+        "android_client_info": {
+          "package_name": "co.appbrewery.micard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684510405722-9bicel259p080ii2s7973b0mkttqa028.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiRE5xZjDLywCzF-w_y4vm25iDRCLFunA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684510405722-9bicel259p080ii2s7973b0mkttqa028.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
